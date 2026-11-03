@@ -4,6 +4,7 @@ A musical composition inspired by Fleetwood Mac's song 'Dreams'.
 # Table of Contents:
 - General Information
 - Technologies
+- Project Status
 - Challenges
 - Launch
 
@@ -15,6 +16,9 @@ My main goal was to capture some of the recognisable musical elements of the ori
 # Technologies
 - Python 3: Programming language used to generate musical notes, chords, rhythms and instrument sequences.
 - TunePad Music Library: Built-in musical functions, including playNote() and rest(), used to control sounds, notes and timing.
+
+# Project Status
+Complete
 
 # Challenges
 
