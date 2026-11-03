@@ -12,8 +12,8 @@ My project is called Dreams in Code. For this project, I created an original mus
 My main goal was to capture some of the recognisable musical elements of the original song, particularly its pop-rock sound, guitar parts, basslines and drum patterns, while using code to build my own composition. I
 
 # Technologies
-Python 3: Programming language used to generate musical notes, chords, rhythms and instrument sequences.
-TunePad Music Library: Built-in musical functions, including playNote() and rest(), used to control sounds, notes and timing.
+- Python 3: Programming language used to generate musical notes, chords, rhythms and instrument sequences.
+- TunePad Music Library: Built-in musical functions, including playNote() and rest(), used to control sounds, notes and timing.
 
 # Launch
 To access and run the Dreams in Code project:
