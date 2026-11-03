@@ -27,8 +27,6 @@ There were a few challenges that I faced when working on this project. Firstly, 
 # Launch
 To access and run the Dreams in Code project:
 
-1. Open the TunePad online coding environment.
-2. Access the project containing the Python music composition.
-3. Ensure all Python code cells have been entered correctly.
-4. Run the code cells in sequence to generate the different instrument tracks and musical sections.
-5. Play the completed composition.
+1. Open the TunePad online coding environment and sign in.
+2. Select the import button and choose the supplied python json file.
+3. Play the completed composition by pressing the play button in the top right corner of the screen.
