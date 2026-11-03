@@ -22,7 +22,7 @@ Complete
 
 # Challenges
 
-There were a few challenges that I faced when working on this project. Firstly, getting the timing and rhythm right. I constantly adjusted beat lengths and rests, using commands such as rest(0.75) to control the spaces between notes. I also had to fix syntax errors and trial various sequences until all the notes worked well together. 
+There were a few challenges that I faced when working on this project. Firstly, getting the timing and rhythm right. I constantly adjusted beat lengths and rests, using commands such as rest(0.75) to control the spaces between notes. I also had to fix syntax errors in the code and trial various sequences until the notes and instruments worked together well, keeping in mind the similarities in sound to Fleetwood Mac's music.
 
 # Launch
 To access and run the Dreams in Code project:
