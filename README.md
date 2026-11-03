@@ -2,9 +2,9 @@
 A musical composition inspired by Fleetwood Mac's song 'Dreams'.
 
 # Table of Contents:
-General Information
-Technologies 
-Launch
+- General Information
+- Technologies 
+- Launch
 
 # General Information
 My project is called Dreams in Code. For this project, I created an original musical composition inspired by Fleetwood Mac's song Dreams, using Python code in a program called TunePad.
